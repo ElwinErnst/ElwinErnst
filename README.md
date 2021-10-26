@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elwin ernst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elwin ernst" height="30" width="40" /></a>
-<a href="https://instagram.com/__elwinernst__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__elwinernst__" height="30" width="40" /></a>
-<a href="https://discord.gg/Kazumaaa#6476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kazumaaa#6476" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elwin-ernst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elwin ernst" height="30" width="40" /></a>
+<a href="https://instagram.com/__alexernst__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__alexernst__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
