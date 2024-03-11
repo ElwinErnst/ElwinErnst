@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 💬 Ask me about **Ruby on Rails, Python and C#**
+- 💬 Ask me about **Ruby on Rails, Python and JavaScript**
 
 - 📫 How to reach me **elwin.ernst@hotmail.com**
 
