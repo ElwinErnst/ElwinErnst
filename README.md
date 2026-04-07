@@ -30,5 +30,5 @@ I work on SaaS platforms, internal business systems, secure digital products, an
 Remote Software Engineer / Product Engineer opportunities in Argentina, Uruguay, or international teams.
 
 ## Contact
-- LinkedIn: ...
-- Email: ...
+- LinkedIn: https://www.linkedin.com/in/elwin-ernst
+- Email: elwin.ernst@hotmail.com
