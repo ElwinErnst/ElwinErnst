@@ -17,7 +17,7 @@ I work on SaaS platforms, internal business systems, secure digital products, an
 - React
 - PostgreSQL
 - Docker
-- Firebase
+- MySql
 - REST APIs
 
 ## Selected work
