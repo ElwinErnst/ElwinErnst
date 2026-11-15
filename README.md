@@ -33,3 +33,10 @@
 - **Portfolio** — [eernst.vercel.app](https://eernst.vercel.app)
 - **LinkedIn** — [in/elwin-ernst](https://www.linkedin.com/in/elwin-ernst)
 - **Email** — elwin.ernst@hotmail.com
+
+## 📊 GitHub
+
+![Followers](https://img.shields.io/github/followers/ElwinErnst?style=flat-square&logo=github&label=Followers&color=1f6feb)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-47-1f6feb?style=flat-square&logo=github)
+![Main Stack](https://img.shields.io/badge/Main%20Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Secure%20Systems%20%26%20SaaS-E0234E?style=flat-square)
