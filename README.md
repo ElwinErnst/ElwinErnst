@@ -33,7 +33,3 @@
 - **Portfolio** — [eernst.vercel.app](https://eernst.vercel.app)
 - **LinkedIn** — [in/elwin-ernst](https://www.linkedin.com/in/elwin-ernst)
 - **Email** — elwin.ernst@hotmail.com
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ElwinErnst&show_icons=true&hide_border=true&count_private=true&theme=default" height="165" alt="Alex Ernst's GitHub stats" />
