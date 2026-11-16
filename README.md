@@ -1,4 +1,4 @@
-# Hi, I'm Alex Ernst 👋
+# Hi, I'm Alex 👋
 
 **Software Engineer** building full-stack products with TypeScript, Next.js, NestJS and PostgreSQL — SaaS platforms, secure systems, and product-oriented software with strong attention to architecture, usability, and real business needs.
 
